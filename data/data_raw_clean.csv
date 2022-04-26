@@ -1,0 +1,571 @@
+,product_id,product_category,product_name,product_price,scrapy_datetime,style_id,color_id,color_name,fit,size_number,size_model,cotton,spandex,polyester,elastomultiester
+0,1024256001,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,1,denim_blue,slim_fit,188.0,size 31/32,0.99,0.01,0.0,0.0
+1,1024256001,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,1,black,,,,0.0,0.0,0.0,0.0
+2,1024256001,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,1,light_denim_blue,,,,0.0,0.0,0.0,0.0
+3,1024256001,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,1,dark_blue,,,,0.0,0.0,0.0,0.0
+4,1024256001,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,1,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+5,1024256001,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,1,dark_gray,,,,0.0,0.0,0.0,0.0
+6,1024256001,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,1,white,,,,0.0,0.0,0.0,0.0
+7,1024256002,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,2,denim_blue,slim_fit,188.0,size 31/32,0.99,0.01,0.0,0.0
+8,1024256002,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,2,black,,,,0.0,0.0,0.0,0.0
+9,1024256002,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,2,light_denim_blue,,,,0.0,0.0,0.0,0.0
+10,1024256002,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,2,dark_blue,,,,0.0,0.0,0.0,0.0
+11,1024256002,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,2,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+12,1024256002,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,2,dark_gray,,,,0.0,0.0,0.0,0.0
+13,1024256002,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,2,white,,,,0.0,0.0,0.0,0.0
+14,811993036,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,36,black_washed_out,,,,0.0,0.0,0.0,0.0
+15,811993036,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,36,graphite_gray,,,,0.0,0.0,0.0,0.0
+16,811993036,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,36,light_denim_blue,,,,0.0,0.0,0.0,0.0
+17,811993036,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,36,cream,,,,0.0,0.0,0.0,0.0
+18,811993036,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,36,light_blue,,,,0.0,0.0,0.0,0.0
+19,811993036,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,36,denim_blue,,,,0.0,0.0,0.0,0.0
+20,811993036,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,36,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+21,811993036,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,36,pale_denim_blue,,,,0.0,0.0,0.0,0.0
+22,811993036,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,36,blue,,,,0.0,0.0,0.0,0.0
+23,811993036,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,36,dark_blue,,,,0.0,0.0,0.0,0.0
+24,811993036,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,36,black,,,,0.0,0.0,0.0,0.0
+25,938875002,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,2,light_denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+26,938875002,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,2,white,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+27,938875002,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,2,dark_gray,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+28,938875002,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,2,black,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+29,938875002,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,2,light_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+30,938875002,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,2,denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+31,938875002,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,2,pale_denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+32,1008549004,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,4,light_denim_blue,,,,0.0,0.0,0.0,0.0
+33,1008549004,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,4,denim_blue,,,,0.0,0.0,0.0,0.0
+34,1008549004,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,4,dark_gray,,,,0.0,0.0,0.0,0.0
+35,1008549004,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,4,dark_blue,,,,0.0,0.0,0.0,0.0
+36,1008549004,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,4,black,,,,0.0,0.0,0.0,0.0
+37,1008549004,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,4,light_gray,,,,0.0,0.0,0.0,0.0
+38,938875013,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,13,light_denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+39,938875013,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,13,white,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+40,938875013,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,13,dark_gray,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+41,938875013,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,13,black,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+42,938875013,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,13,light_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+43,938875013,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,13,denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+44,938875013,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,13,pale_denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+45,1008549007,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,7,light_denim_blue,,,,0.0,0.0,0.0,0.0
+46,1008549007,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,7,denim_blue,,,,0.0,0.0,0.0,0.0
+47,1008549007,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,7,dark_gray,,,,0.0,0.0,0.0,0.0
+48,1008549007,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,7,dark_blue,,,,0.0,0.0,0.0,0.0
+49,1008549007,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,7,black,,,,0.0,0.0,0.0,0.0
+50,1008549007,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,7,light_gray,,,,0.0,0.0,0.0,0.0
+51,979945009,men_jeans_loose,loose_jeans,39.99,2022-04-19 13:17:23,979945,9,light_denim_blue,,,,0.0,0.0,0.0,0.0
+52,979945009,men_jeans_loose,loose_jeans,39.99,2022-04-19 13:17:23,979945,9,denim_blue,loose_fit,180.0,size 31/32,1.0,0.0,0.0,0.0
+53,979945009,men_jeans_loose,loose_jeans,39.99,2022-04-19 13:17:23,979945,9,black,loose_fit,180.0,size 31/32,1.0,0.0,0.0,0.0
+54,979945009,men_jeans_loose,loose_jeans,39.99,2022-04-19 13:17:23,979945,9,light_gray,loose_fit,180.0,size 31/32,1.0,0.0,0.0,0.0
+55,985159001,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,1,black,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+56,985159001,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,1,light_denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+57,985159001,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,1,dark_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+58,985159001,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,1,dark_denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+59,985159001,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,1,denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+60,985159001,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,1,dark_gray,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+61,690449022,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,22,denim_blue,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+62,690449022,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,22,light_denim_blue,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+63,690449022,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,22,black_washed_out,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+64,690449022,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,22,white,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+65,690449022,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,22,black_washed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+66,690449022,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,22,dark_denim_blue_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+67,690449022,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,22,black_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+68,690449022,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,22,dark_blue_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+69,690449022,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,22,dark_blue_washed_out,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+70,690449022,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,22,denim_blue_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+71,690449022,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,22,black,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+72,690449022,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,22,denim_gray,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+73,690449022,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,22,light_denim_blue_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+74,690449022,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,22,light_denim_gray_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+75,690449022,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,22,gray,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+76,690449036,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,36,denim_blue,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+77,690449036,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,36,light_denim_blue,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+78,690449036,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,36,black_washed_out,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+79,690449036,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,36,white,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+80,690449036,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,36,black_washed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+81,690449036,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,36,dark_denim_blue_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+82,690449036,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,36,black_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+83,690449036,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,36,dark_blue_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+84,690449036,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,36,dark_blue_washed_out,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+85,690449036,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,36,denim_blue_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+86,690449036,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,36,black,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+87,690449036,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,36,denim_gray,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+88,690449036,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,36,light_denim_blue_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+89,690449036,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,36,light_denim_gray_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+90,690449036,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,36,gray,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+91,690449051,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,51,denim_blue,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+92,690449051,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,51,light_denim_blue,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+93,690449051,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,51,black_washed_out,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+94,690449051,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,51,white,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+95,690449051,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,51,black_washed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+96,690449051,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,51,dark_denim_blue_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+97,690449051,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,51,black_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+98,690449051,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,51,dark_blue_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+99,690449051,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,51,dark_blue_washed_out,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+100,690449051,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,51,denim_blue_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+101,690449051,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,51,black,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+102,690449051,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,51,denim_gray,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+103,690449051,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,51,light_denim_blue_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+104,690449051,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,51,light_denim_gray_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+105,690449051,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,51,gray,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+106,979945002,men_jeans_loose,loose_jeans,39.99,2022-04-19 13:17:23,979945,2,light_denim_blue,,,,0.0,0.0,0.0,0.0
+107,979945002,men_jeans_loose,loose_jeans,39.99,2022-04-19 13:17:23,979945,2,denim_blue,loose_fit,180.0,size 31/32,1.0,0.0,0.0,0.0
+108,979945002,men_jeans_loose,loose_jeans,39.99,2022-04-19 13:17:23,979945,2,black,loose_fit,180.0,size 31/32,1.0,0.0,0.0,0.0
+109,979945002,men_jeans_loose,loose_jeans,39.99,2022-04-19 13:17:23,979945,2,light_gray,loose_fit,180.0,size 31/32,1.0,0.0,0.0,0.0
+110,690449043,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,43,denim_blue,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+111,690449043,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,43,light_denim_blue,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+112,690449043,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,43,black_washed_out,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+113,690449043,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,43,white,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+114,690449043,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,43,black_washed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+115,690449043,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,43,dark_denim_blue_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+116,690449043,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,43,black_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+117,690449043,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,43,dark_blue_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+118,690449043,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,43,dark_blue_washed_out,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+119,690449043,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,43,denim_blue_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+120,690449043,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,43,black,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+121,690449043,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,43,denim_gray,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+122,690449043,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,43,light_denim_blue_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+123,690449043,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,43,light_denim_gray_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+124,690449043,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,43,gray,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+125,1024256008,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,8,denim_blue,slim_fit,188.0,size 31/32,0.99,0.01,0.0,0.0
+126,1024256008,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,8,black,,,,0.0,0.0,0.0,0.0
+127,1024256008,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,8,light_denim_blue,,,,0.0,0.0,0.0,0.0
+128,1024256008,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,8,dark_blue,,,,0.0,0.0,0.0,0.0
+129,1024256008,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,8,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+130,1024256008,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,8,dark_gray,,,,0.0,0.0,0.0,0.0
+131,1024256008,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,8,white,,,,0.0,0.0,0.0,0.0
+132,985159004,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,4,black,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+133,985159004,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,4,light_denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+134,985159004,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,4,dark_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+135,985159004,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,4,dark_denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+136,985159004,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,4,denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+137,985159004,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,4,dark_gray,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+138,1008549006,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,6,light_denim_blue,,,,0.0,0.0,0.0,0.0
+139,1008549006,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,6,denim_blue,,,,0.0,0.0,0.0,0.0
+140,1008549006,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,6,dark_gray,,,,0.0,0.0,0.0,0.0
+141,1008549006,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,6,dark_blue,,,,0.0,0.0,0.0,0.0
+142,1008549006,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,6,black,,,,0.0,0.0,0.0,0.0
+143,1008549006,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,6,light_gray,,,,0.0,0.0,0.0,0.0
+144,1024256007,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,7,denim_blue,slim_fit,188.0,size 31/32,0.99,0.01,0.0,0.0
+145,1024256007,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,7,black,,,,0.0,0.0,0.0,0.0
+146,1024256007,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,7,light_denim_blue,,,,0.0,0.0,0.0,0.0
+147,1024256007,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,7,dark_blue,,,,0.0,0.0,0.0,0.0
+148,1024256007,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,7,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+149,1024256007,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,7,dark_gray,,,,0.0,0.0,0.0,0.0
+150,1024256007,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,7,white,,,,0.0,0.0,0.0,0.0
+151,1024256005,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,5,denim_blue,slim_fit,188.0,size 31/32,0.99,0.01,0.0,0.0
+152,1024256005,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,5,black,,,,0.0,0.0,0.0,0.0
+153,1024256005,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,5,light_denim_blue,,,,0.0,0.0,0.0,0.0
+154,1024256005,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,5,dark_blue,,,,0.0,0.0,0.0,0.0
+155,1024256005,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,5,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+156,1024256005,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,5,dark_gray,,,,0.0,0.0,0.0,0.0
+157,1024256005,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,5,white,,,,0.0,0.0,0.0,0.0
+158,1024256003,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,3,denim_blue,slim_fit,188.0,size 31/32,0.99,0.01,0.0,0.0
+159,1024256003,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,3,black,,,,0.0,0.0,0.0,0.0
+160,1024256003,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,3,light_denim_blue,,,,0.0,0.0,0.0,0.0
+161,1024256003,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,3,dark_blue,,,,0.0,0.0,0.0,0.0
+162,1024256003,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,3,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+163,1024256003,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,3,dark_gray,,,,0.0,0.0,0.0,0.0
+164,1024256003,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,3,white,,,,0.0,0.0,0.0,0.0
+165,690449056,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,56,denim_blue,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+166,690449056,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,56,light_denim_blue,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+167,690449056,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,56,black_washed_out,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+168,690449056,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,56,white,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+169,690449056,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,56,black_washed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+170,690449056,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,56,dark_denim_blue_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+171,690449056,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,56,black_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+172,690449056,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,56,dark_blue_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+173,690449056,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,56,dark_blue_washed_out,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+174,690449056,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,56,denim_blue_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+175,690449056,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,56,black,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+176,690449056,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,56,denim_gray,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+177,690449056,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,56,light_denim_blue_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+178,690449056,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,56,light_denim_gray_trashed,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+179,690449056,men_jeans_ripped,skinny_jeans,39.99,2022-04-19 13:17:23,690449,56,gray,skinny_fit,187.0,size 32/32,0.98,0.02,0.0,0.0
+180,979945003,men_jeans_loose,loose_jeans,39.99,2022-04-19 13:17:23,979945,3,light_denim_blue,,,,0.0,0.0,0.0,0.0
+181,979945003,men_jeans_loose,loose_jeans,39.99,2022-04-19 13:17:23,979945,3,denim_blue,loose_fit,180.0,size 31/32,1.0,0.0,0.0,0.0
+182,979945003,men_jeans_loose,loose_jeans,39.99,2022-04-19 13:17:23,979945,3,black,loose_fit,180.0,size 31/32,1.0,0.0,0.0,0.0
+183,979945003,men_jeans_loose,loose_jeans,39.99,2022-04-19 13:17:23,979945,3,light_gray,loose_fit,180.0,size 31/32,1.0,0.0,0.0,0.0
+184,1024256006,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,6,denim_blue,slim_fit,188.0,size 31/32,0.99,0.01,0.0,0.0
+185,1024256006,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,6,black,,,,0.0,0.0,0.0,0.0
+186,1024256006,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,6,light_denim_blue,,,,0.0,0.0,0.0,0.0
+187,1024256006,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,6,dark_blue,,,,0.0,0.0,0.0,0.0
+188,1024256006,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,6,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+189,1024256006,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,6,dark_gray,,,,0.0,0.0,0.0,0.0
+190,1024256006,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,6,white,,,,0.0,0.0,0.0,0.0
+191,985159005,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,5,black,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+192,985159005,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,5,light_denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+193,985159005,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,5,dark_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+194,985159005,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,5,dark_denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+195,985159005,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,5,denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+196,985159005,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,5,dark_gray,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+197,811993040,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,40,black_washed_out,,,,0.0,0.0,0.0,0.0
+198,811993040,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,40,graphite_gray,,,,0.0,0.0,0.0,0.0
+199,811993040,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,40,light_denim_blue,,,,0.0,0.0,0.0,0.0
+200,811993040,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,40,cream,,,,0.0,0.0,0.0,0.0
+201,811993040,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,40,light_blue,,,,0.0,0.0,0.0,0.0
+202,811993040,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,40,denim_blue,,,,0.0,0.0,0.0,0.0
+203,811993040,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,40,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+204,811993040,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,40,pale_denim_blue,,,,0.0,0.0,0.0,0.0
+205,811993040,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,40,blue,,,,0.0,0.0,0.0,0.0
+206,811993040,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,40,dark_blue,,,,0.0,0.0,0.0,0.0
+207,811993040,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,40,black,,,,0.0,0.0,0.0,0.0
+208,1008549003,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,3,light_denim_blue,,,,0.0,0.0,0.0,0.0
+209,1008549003,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,3,denim_blue,,,,0.0,0.0,0.0,0.0
+210,1008549003,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,3,dark_gray,,,,0.0,0.0,0.0,0.0
+211,1008549003,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,3,dark_blue,,,,0.0,0.0,0.0,0.0
+212,1008549003,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,3,black,,,,0.0,0.0,0.0,0.0
+213,1008549003,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,3,light_gray,,,,0.0,0.0,0.0,0.0
+214,1004199002,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,2,light_denim_blue,skinny_fit,185.0,size 31,0.99,0.01,0.0,0.0
+215,1004199002,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,2,black,,,,0.0,0.0,0.0,0.0
+216,1004199002,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,2,denim_blue,,,,0.0,0.0,0.0,0.0
+217,1004199002,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,2,white,,,,0.0,0.0,0.0,0.0
+218,1004199002,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,2,light_gray,,,,0.0,0.0,0.0,0.0
+219,1004199004,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,4,light_denim_blue,skinny_fit,185.0,size 31,0.99,0.01,0.0,0.0
+220,1004199004,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,4,black,,,,0.0,0.0,0.0,0.0
+221,1004199004,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,4,denim_blue,,,,0.0,0.0,0.0,0.0
+222,1004199004,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,4,white,,,,0.0,0.0,0.0,0.0
+223,1004199004,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,4,light_gray,,,,0.0,0.0,0.0,0.0
+224,979945001,men_jeans_loose,loose_jeans,39.99,2022-04-19 13:17:23,979945,1,light_denim_blue,,,,0.0,0.0,0.0,0.0
+225,979945001,men_jeans_loose,loose_jeans,39.99,2022-04-19 13:17:23,979945,1,denim_blue,loose_fit,180.0,size 31/32,1.0,0.0,0.0,0.0
+226,979945001,men_jeans_loose,loose_jeans,39.99,2022-04-19 13:17:23,979945,1,black,loose_fit,180.0,size 31/32,1.0,0.0,0.0,0.0
+227,979945001,men_jeans_loose,loose_jeans,39.99,2022-04-19 13:17:23,979945,1,light_gray,loose_fit,180.0,size 31/32,1.0,0.0,0.0,0.0
+228,1004199005,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,5,light_denim_blue,skinny_fit,185.0,size 31,0.99,0.01,0.0,0.0
+229,1004199005,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,5,black,,,,0.0,0.0,0.0,0.0
+230,1004199005,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,5,denim_blue,,,,0.0,0.0,0.0,0.0
+231,1004199005,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,5,white,,,,0.0,0.0,0.0,0.0
+232,1004199005,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,5,light_gray,,,,0.0,0.0,0.0,0.0
+233,1008549001,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,1,light_denim_blue,,,,0.0,0.0,0.0,0.0
+234,1008549001,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,1,denim_blue,,,,0.0,0.0,0.0,0.0
+235,1008549001,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,1,dark_gray,,,,0.0,0.0,0.0,0.0
+236,1008549001,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,1,dark_blue,,,,0.0,0.0,0.0,0.0
+237,1008549001,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,1,black,,,,0.0,0.0,0.0,0.0
+238,1008549001,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,1,light_gray,,,,0.0,0.0,0.0,0.0
+239,1008110001,men_jeans_slim,freefit®_slim_jeans,49.99,2022-04-19 13:17:23,1008110,1,dark_denim_blue,slim_fit,188.0,size 31/32,0.89,0.02,0.0,0.09
+240,1008110001,men_jeans_slim,freefit®_slim_jeans,49.99,2022-04-19 13:17:23,1008110,1,black_no_fade_black,slim_fit,188.0,size 31/32,0.89,0.02,0.0,0.09
+241,1008110001,men_jeans_slim,freefit®_slim_jeans,49.99,2022-04-19 13:17:23,1008110,1,light_denim_blue,slim_fit,188.0,size 31/32,0.89,0.02,0.0,0.09
+242,1008110001,men_jeans_slim,freefit®_slim_jeans,49.99,2022-04-19 13:17:23,1008110,1,denim_blue,slim_fit,188.0,size 31/32,0.89,0.02,0.0,0.09
+243,1024256004,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,4,denim_blue,slim_fit,188.0,size 31/32,0.99,0.01,0.0,0.0
+244,1024256004,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,4,black,,,,0.0,0.0,0.0,0.0
+245,1024256004,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,4,light_denim_blue,,,,0.0,0.0,0.0,0.0
+246,1024256004,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,4,dark_blue,,,,0.0,0.0,0.0,0.0
+247,1024256004,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,4,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+248,1024256004,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,4,dark_gray,,,,0.0,0.0,0.0,0.0
+249,1024256004,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,1024256,4,white,,,,0.0,0.0,0.0,0.0
+250,985159006,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,6,black,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+251,985159006,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,6,light_denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+252,985159006,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,6,dark_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+253,985159006,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,6,dark_denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+254,985159006,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,6,denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+255,985159006,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,6,dark_gray,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+256,938875007,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,7,light_denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+257,938875007,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,7,white,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+258,938875007,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,7,dark_gray,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+259,938875007,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,7,black,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+260,938875007,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,7,light_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+261,938875007,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,7,denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+262,938875007,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,7,pale_denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+263,875105018,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,18,denim_blue,,,,0.0,0.0,0.0,0.0
+264,875105018,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,18,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+265,875105018,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,18,pale_denim_blue,,,,0.0,0.0,0.0,0.0
+266,875105018,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,18,black,,,,0.0,0.0,0.0,0.0
+267,875105018,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,18,light_denim_blue,,,,0.0,0.0,0.0,0.0
+268,875105018,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,18,light_gray,,,,0.0,0.0,0.0,0.0
+269,1013317008,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,8,light_denim_blue,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+270,1013317008,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,8,denim_blue,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+271,1013317008,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,8,dark_gray,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+272,1013317008,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,8,dark_blue,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+273,1013317008,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,8,black,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+274,927964002,men_jeans_regular,regular_tapered_crop_jeans,19.99,2022-04-19 13:17:23,927964,2,black,regular_fit,188.0,size 31,1.0,0.0,0.0,0.0
+275,927964002,men_jeans_regular,regular_tapered_crop_jeans,19.99,2022-04-19 13:17:23,927964,2,denim_blue,,,,0.0,0.0,0.0,0.0
+276,927964002,men_jeans_regular,regular_tapered_crop_jeans,19.99,2022-04-19 13:17:23,927964,2,light_denim_blue,,,,0.0,0.0,0.0,0.0
+277,927964002,men_jeans_regular,regular_tapered_crop_jeans,19.99,2022-04-19 13:17:23,927964,2,dark_gray,,,,0.0,0.0,0.0,0.0
+278,927964002,men_jeans_regular,regular_tapered_crop_jeans,19.99,2022-04-19 13:17:23,927964,2,steel_blue,,,,0.0,0.0,0.0,0.0
+279,927964002,men_jeans_regular,regular_tapered_crop_jeans,19.99,2022-04-19 13:17:23,927964,2,white,,,,0.0,0.0,0.0,0.0
+280,1008110002,men_jeans_slim,freefit®_slim_jeans,49.99,2022-04-19 13:17:23,1008110,2,dark_denim_blue,slim_fit,188.0,size 31/32,0.89,0.02,0.0,0.09
+281,1008110002,men_jeans_slim,freefit®_slim_jeans,49.99,2022-04-19 13:17:23,1008110,2,black_no_fade_black,slim_fit,188.0,size 31/32,0.89,0.02,0.0,0.09
+282,1008110002,men_jeans_slim,freefit®_slim_jeans,49.99,2022-04-19 13:17:23,1008110,2,light_denim_blue,slim_fit,188.0,size 31/32,0.89,0.02,0.0,0.09
+283,1008110002,men_jeans_slim,freefit®_slim_jeans,49.99,2022-04-19 13:17:23,1008110,2,denim_blue,slim_fit,188.0,size 31/32,0.89,0.02,0.0,0.09
+284,1013317010,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,10,light_denim_blue,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+285,1013317010,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,10,denim_blue,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+286,1013317010,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,10,dark_gray,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+287,1013317010,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,10,dark_blue,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+288,1013317010,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,10,black,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+289,927964001,men_jeans_regular,regular_tapered_crop_jeans,19.99,2022-04-19 13:17:23,927964,1,black,regular_fit,188.0,size 31,1.0,0.0,0.0,0.0
+290,927964001,men_jeans_regular,regular_tapered_crop_jeans,19.99,2022-04-19 13:17:23,927964,1,denim_blue,,,,0.0,0.0,0.0,0.0
+291,927964001,men_jeans_regular,regular_tapered_crop_jeans,19.99,2022-04-19 13:17:23,927964,1,light_denim_blue,,,,0.0,0.0,0.0,0.0
+292,927964001,men_jeans_regular,regular_tapered_crop_jeans,19.99,2022-04-19 13:17:23,927964,1,dark_gray,,,,0.0,0.0,0.0,0.0
+293,927964001,men_jeans_regular,regular_tapered_crop_jeans,19.99,2022-04-19 13:17:23,927964,1,steel_blue,,,,0.0,0.0,0.0,0.0
+294,927964001,men_jeans_regular,regular_tapered_crop_jeans,19.99,2022-04-19 13:17:23,927964,1,white,,,,0.0,0.0,0.0,0.0
+295,1004199003,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,3,light_denim_blue,skinny_fit,185.0,size 31,0.99,0.01,0.0,0.0
+296,1004199003,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,3,black,,,,0.0,0.0,0.0,0.0
+297,1004199003,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,3,denim_blue,,,,0.0,0.0,0.0,0.0
+298,1004199003,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,3,white,,,,0.0,0.0,0.0,0.0
+299,1004199003,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,3,light_gray,,,,0.0,0.0,0.0,0.0
+300,927964013,men_jeans_regular,regular_tapered_crop_jeans,19.99,2022-04-19 13:17:23,927964,13,black,regular_fit,188.0,size 31,1.0,0.0,0.0,0.0
+301,927964013,men_jeans_regular,regular_tapered_crop_jeans,19.99,2022-04-19 13:17:23,927964,13,denim_blue,,,,0.0,0.0,0.0,0.0
+302,927964013,men_jeans_regular,regular_tapered_crop_jeans,19.99,2022-04-19 13:17:23,927964,13,light_denim_blue,,,,0.0,0.0,0.0,0.0
+303,927964013,men_jeans_regular,regular_tapered_crop_jeans,19.99,2022-04-19 13:17:23,927964,13,dark_gray,,,,0.0,0.0,0.0,0.0
+304,927964013,men_jeans_regular,regular_tapered_crop_jeans,19.99,2022-04-19 13:17:23,927964,13,steel_blue,,,,0.0,0.0,0.0,0.0
+305,927964013,men_jeans_regular,regular_tapered_crop_jeans,19.99,2022-04-19 13:17:23,927964,13,white,,,,0.0,0.0,0.0,0.0
+306,985159008,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,8,black,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+307,985159008,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,8,light_denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+308,985159008,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,8,dark_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+309,985159008,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,8,dark_denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+310,985159008,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,8,denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+311,985159008,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,8,dark_gray,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+312,985197004,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,4,black,,,,0.0,0.0,0.0,0.0
+313,985197004,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,4,midnight_blue,slim_fit,189.0,size 32/32,0.98,0.02,0.0,0.0
+314,985197004,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,4,denim_blue,slim_fit,189.0,size 32/32,0.98,0.02,0.0,0.0
+315,985197004,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,4,dark_denim_blue,slim_fit,189.0,size 32/32,0.98,0.02,0.0,0.0
+316,985197004,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,4,light_denim_blue,slim_fit,189.0,size 32/32,0.98,0.02,0.0,0.0
+317,985197004,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,4,dark_gray,slim_fit,189.0,size 32/32,0.98,0.02,0.0,0.0
+318,1024711001,men_jeans_slim,slim_jeans,29.99,2022-04-19 13:17:23,1024711,1,dark_denim_blue,slim_fit,189.0,size 31/32,0.99,0.01,0.0,0.0
+319,1024711001,men_jeans_slim,slim_jeans,29.99,2022-04-19 13:17:23,1024711,1,black,slim_fit,189.0,size 31/32,0.98,0.02,0.0,0.0
+320,1024711001,men_jeans_slim,slim_jeans,29.99,2022-04-19 13:17:23,1024711,1,light_denim_blue,slim_fit,189.0,size 31/32,0.98,0.02,0.0,0.0
+321,1013317002,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,2,light_denim_blue,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+322,1013317002,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,2,denim_blue,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+323,1013317002,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,2,dark_gray,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+324,1013317002,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,2,dark_blue,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+325,1013317002,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,2,black,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+326,938875012,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,12,light_denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+327,938875012,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,12,white,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+328,938875012,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,12,dark_gray,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+329,938875012,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,12,black,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+330,938875012,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,12,light_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+331,938875012,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,12,denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+332,938875012,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,12,pale_denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+333,985159007,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,7,black,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+334,985159007,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,7,light_denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+335,985159007,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,7,dark_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+336,985159007,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,7,dark_denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+337,985159007,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,7,denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+338,985159007,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,7,dark_gray,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+339,1004199001,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,1,light_denim_blue,skinny_fit,185.0,size 31,0.99,0.01,0.0,0.0
+340,1004199001,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,1,black,,,,0.0,0.0,0.0,0.0
+341,1004199001,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,1,denim_blue,,,,0.0,0.0,0.0,0.0
+342,1004199001,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,1,white,,,,0.0,0.0,0.0,0.0
+343,1004199001,men_jeans_skinny,skinny_cropped_jeans,29.99,2022-04-19 13:17:23,1004199,1,light_gray,,,,0.0,0.0,0.0,0.0
+344,1008549002,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,2,light_denim_blue,,,,0.0,0.0,0.0,0.0
+345,1008549002,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,2,denim_blue,,,,0.0,0.0,0.0,0.0
+346,1008549002,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,2,dark_gray,,,,0.0,0.0,0.0,0.0
+347,1008549002,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,2,dark_blue,,,,0.0,0.0,0.0,0.0
+348,1008549002,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,2,black,,,,0.0,0.0,0.0,0.0
+349,1008549002,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,2,light_gray,,,,0.0,0.0,0.0,0.0
+350,985159002,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,2,black,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+351,985159002,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,2,light_denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+352,985159002,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,2,dark_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+353,985159002,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,2,dark_denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+354,985159002,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,2,denim_blue,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+355,985159002,men_jeans_skinny,skinny_jeans,19.99,2022-04-19 13:17:23,985159,2,dark_gray,skinny_fit,187.0,size 31/32,0.99,0.01,0.0,0.0
+356,1018704001,men_jeans_relaxed,relaxed_pull-on_jeans,24.99,2022-04-19 13:17:23,1018704,1,denim_blue,relaxed_fit,187.0,size L,1.0,0.0,0.0,0.0
+357,1018704001,men_jeans_relaxed,relaxed_pull-on_jeans,24.99,2022-04-19 13:17:23,1018704,1,light_denim_blue,,,,0.0,0.0,0.0,0.0
+358,1018704001,men_jeans_relaxed,relaxed_pull-on_jeans,24.99,2022-04-19 13:17:23,1018704,1,black,,,,0.0,0.0,0.0,0.0
+359,1013317001,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,1,light_denim_blue,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+360,1013317001,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,1,denim_blue,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+361,1013317001,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,1,dark_gray,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+362,1013317001,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,1,dark_blue,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+363,1013317001,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,1,black,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+364,1008549008,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,8,light_denim_blue,,,,0.0,0.0,0.0,0.0
+365,1008549008,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,8,denim_blue,,,,0.0,0.0,0.0,0.0
+366,1008549008,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,8,dark_gray,,,,0.0,0.0,0.0,0.0
+367,1008549008,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,8,dark_blue,,,,0.0,0.0,0.0,0.0
+368,1008549008,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,8,black,,,,0.0,0.0,0.0,0.0
+369,1008549008,men_jeans_regular,regular_jeans,24.99,2022-04-19 13:17:23,1008549,8,light_gray,,,,0.0,0.0,0.0,0.0
+370,875105023,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,23,denim_blue,,,,0.0,0.0,0.0,0.0
+371,875105023,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,23,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+372,875105023,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,23,pale_denim_blue,,,,0.0,0.0,0.0,0.0
+373,875105023,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,23,black,,,,0.0,0.0,0.0,0.0
+374,875105023,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,23,light_denim_blue,,,,0.0,0.0,0.0,0.0
+375,875105023,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,23,light_gray,,,,0.0,0.0,0.0,0.0
+376,1013317005,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,5,light_denim_blue,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+377,1013317005,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,5,denim_blue,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+378,1013317005,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,5,dark_gray,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+379,1013317005,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,5,dark_blue,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+380,1013317005,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,5,black,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+381,427159006,men_jeans_ripped,trashed_skinny_jeans,39.99,2022-04-19 13:17:23,427159,6,black_denim,skinny_fit,184.0,size 31/32,0.93,0.01,0.06,0.0
+382,427159006,men_jeans_ripped,trashed_skinny_jeans,39.99,2022-04-19 13:17:23,427159,6,blue_washed_out,skinny_fit,184.0,size 31/32,0.93,0.01,0.06,0.0
+383,427159006,men_jeans_ripped,trashed_skinny_jeans,39.99,2022-04-19 13:17:23,427159,6,dark_denim_blue,skinny_fit,184.0,size 31/32,0.93,0.01,0.06,0.0
+384,427159006,men_jeans_ripped,trashed_skinny_jeans,39.99,2022-04-19 13:17:23,427159,6,black_washed_out,skinny_fit,184.0,size 31/32,0.93,0.01,0.06,0.0
+385,427159006,men_jeans_ripped,trashed_skinny_jeans,39.99,2022-04-19 13:17:23,427159,6,denim_blue,skinny_fit,184.0,size 31/32,0.93,0.01,0.06,0.0
+386,427159006,men_jeans_ripped,trashed_skinny_jeans,39.99,2022-04-19 13:17:23,427159,6,white_denim,skinny_fit,184.0,size 31/32,0.93,0.01,0.06,0.0
+387,427159006,men_jeans_ripped,trashed_skinny_jeans,39.99,2022-04-19 13:17:23,427159,6,light_blue_washed_out,skinny_fit,184.0,size 31/32,0.93,0.01,0.06,0.0
+388,427159006,men_jeans_ripped,trashed_skinny_jeans,39.99,2022-04-19 13:17:23,427159,6,super_light_denim_blue,skinny_fit,184.0,size 31/32,0.93,0.01,0.06,0.0
+389,427159006,men_jeans_ripped,trashed_skinny_jeans,39.99,2022-04-19 13:17:23,427159,6,black_trashed,skinny_fit,184.0,size 31/32,0.93,0.01,0.06,0.0
+390,427159006,men_jeans_ripped,trashed_skinny_jeans,39.99,2022-04-19 13:17:23,427159,6,light_denim_blue,skinny_fit,184.0,size 31/32,0.93,0.01,0.06,0.0
+391,427159006,men_jeans_ripped,trashed_skinny_jeans,39.99,2022-04-19 13:17:23,427159,6,denim_blue_bleached,skinny_fit,184.0,size 31/32,0.93,0.01,0.06,0.0
+392,427159006,men_jeans_ripped,trashed_skinny_jeans,39.99,2022-04-19 13:17:23,427159,6,black_bleached,skinny_fit,184.0,size 31/32,0.93,0.01,0.06,0.0
+393,985197006,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,6,black,,,,0.0,0.0,0.0,0.0
+394,985197006,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,6,midnight_blue,slim_fit,189.0,size 32/32,0.98,0.02,0.0,0.0
+395,985197006,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,6,denim_blue,slim_fit,189.0,size 32/32,0.98,0.02,0.0,0.0
+396,985197006,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,6,dark_denim_blue,slim_fit,189.0,size 32/32,0.98,0.02,0.0,0.0
+397,985197006,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,6,light_denim_blue,slim_fit,189.0,size 32/32,0.98,0.02,0.0,0.0
+398,985197006,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,6,dark_gray,slim_fit,189.0,size 32/32,0.98,0.02,0.0,0.0
+399,811993034,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,34,black_washed_out,,,,0.0,0.0,0.0,0.0
+400,811993034,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,34,graphite_gray,,,,0.0,0.0,0.0,0.0
+401,811993034,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,34,light_denim_blue,,,,0.0,0.0,0.0,0.0
+402,811993034,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,34,cream,,,,0.0,0.0,0.0,0.0
+403,811993034,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,34,light_blue,,,,0.0,0.0,0.0,0.0
+404,811993034,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,34,denim_blue,,,,0.0,0.0,0.0,0.0
+405,811993034,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,34,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+406,811993034,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,34,pale_denim_blue,,,,0.0,0.0,0.0,0.0
+407,811993034,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,34,blue,,,,0.0,0.0,0.0,0.0
+408,811993034,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,34,dark_blue,,,,0.0,0.0,0.0,0.0
+409,811993034,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,34,black,,,,0.0,0.0,0.0,0.0
+410,938875010,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,10,light_denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+411,938875010,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,10,white,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+412,938875010,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,10,dark_gray,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+413,938875010,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,10,black,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+414,938875010,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,10,light_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+415,938875010,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,10,denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+416,938875010,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,10,pale_denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+417,985197003,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,3,black,,,,0.0,0.0,0.0,0.0
+418,985197003,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,3,midnight_blue,slim_fit,189.0,size 32/32,0.98,0.02,0.0,0.0
+419,985197003,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,3,denim_blue,slim_fit,189.0,size 32/32,0.98,0.02,0.0,0.0
+420,985197003,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,3,dark_denim_blue,slim_fit,189.0,size 32/32,0.98,0.02,0.0,0.0
+421,985197003,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,3,light_denim_blue,slim_fit,189.0,size 32/32,0.98,0.02,0.0,0.0
+422,985197003,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,3,dark_gray,slim_fit,189.0,size 32/32,0.98,0.02,0.0,0.0
+423,875105016,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,16,denim_blue,,,,0.0,0.0,0.0,0.0
+424,875105016,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,16,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+425,875105016,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,16,pale_denim_blue,,,,0.0,0.0,0.0,0.0
+426,875105016,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,16,black,,,,0.0,0.0,0.0,0.0
+427,875105016,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,16,light_denim_blue,,,,0.0,0.0,0.0,0.0
+428,875105016,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,16,light_gray,,,,0.0,0.0,0.0,0.0
+429,938875008,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,8,light_denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+430,938875008,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,8,white,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+431,938875008,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,8,dark_gray,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+432,938875008,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,8,black,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+433,938875008,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,8,light_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+434,938875008,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,8,denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+435,938875008,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,8,pale_denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+436,811993037,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,37,black_washed_out,,,,0.0,0.0,0.0,0.0
+437,811993037,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,37,graphite_gray,,,,0.0,0.0,0.0,0.0
+438,811993037,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,37,light_denim_blue,,,,0.0,0.0,0.0,0.0
+439,811993037,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,37,cream,,,,0.0,0.0,0.0,0.0
+440,811993037,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,37,light_blue,,,,0.0,0.0,0.0,0.0
+441,811993037,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,37,denim_blue,,,,0.0,0.0,0.0,0.0
+442,811993037,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,37,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+443,811993037,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,37,pale_denim_blue,,,,0.0,0.0,0.0,0.0
+444,811993037,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,37,blue,,,,0.0,0.0,0.0,0.0
+445,811993037,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,37,dark_blue,,,,0.0,0.0,0.0,0.0
+446,811993037,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,37,black,,,,0.0,0.0,0.0,0.0
+447,875105017,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,17,denim_blue,,,,0.0,0.0,0.0,0.0
+448,875105017,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,17,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+449,875105017,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,17,pale_denim_blue,,,,0.0,0.0,0.0,0.0
+450,875105017,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,17,black,,,,0.0,0.0,0.0,0.0
+451,875105017,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,17,light_denim_blue,,,,0.0,0.0,0.0,0.0
+452,875105017,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,17,light_gray,,,,0.0,0.0,0.0,0.0
+453,811993039,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,39,black_washed_out,,,,0.0,0.0,0.0,0.0
+454,811993039,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,39,graphite_gray,,,,0.0,0.0,0.0,0.0
+455,811993039,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,39,light_denim_blue,,,,0.0,0.0,0.0,0.0
+456,811993039,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,39,cream,,,,0.0,0.0,0.0,0.0
+457,811993039,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,39,light_blue,,,,0.0,0.0,0.0,0.0
+458,811993039,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,39,denim_blue,,,,0.0,0.0,0.0,0.0
+459,811993039,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,39,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+460,811993039,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,39,pale_denim_blue,,,,0.0,0.0,0.0,0.0
+461,811993039,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,39,blue,,,,0.0,0.0,0.0,0.0
+462,811993039,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,39,dark_blue,,,,0.0,0.0,0.0,0.0
+463,811993039,men_jeans_regular,regular_jeans,29.99,2022-04-19 13:17:23,811993,39,black,,,,0.0,0.0,0.0,0.0
+464,974597006,men_jeans_slim,slim_tapered_jeans,29.99,2022-04-19 13:17:23,974597,6,denim_blue,,,,0.0,0.0,0.0,0.0
+465,974597006,men_jeans_slim,slim_tapered_jeans,29.99,2022-04-19 13:17:23,974597,6,black,,,,0.0,0.0,0.0,0.0
+466,974597006,men_jeans_slim,slim_tapered_jeans,29.99,2022-04-19 13:17:23,974597,6,light_denim_blue,,,,0.0,0.0,0.0,0.0
+467,974597006,men_jeans_slim,slim_tapered_jeans,29.99,2022-04-19 13:17:23,974597,6,dark_gray,,,,0.0,0.0,0.0,0.0
+468,1024711004,men_jeans_slim,slim_jeans,29.99,2022-04-19 13:17:23,1024711,4,dark_denim_blue,slim_fit,189.0,size 31/32,0.99,0.01,0.0,0.0
+469,1024711004,men_jeans_slim,slim_jeans,29.99,2022-04-19 13:17:23,1024711,4,black,slim_fit,189.0,size 31/32,0.98,0.02,0.0,0.0
+470,1024711004,men_jeans_slim,slim_jeans,29.99,2022-04-19 13:17:23,1024711,4,light_denim_blue,slim_fit,189.0,size 31/32,0.98,0.02,0.0,0.0
+471,1063426001,men_jeans_straight,cotton_denim_jeans,49.99,2022-04-19 13:17:23,1063426,1,,,,,0.0,0.0,0.0,0.0
+472,875105026,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,26,denim_blue,,,,0.0,0.0,0.0,0.0
+473,875105026,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,26,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+474,875105026,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,26,pale_denim_blue,,,,0.0,0.0,0.0,0.0
+475,875105026,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,26,black,,,,0.0,0.0,0.0,0.0
+476,875105026,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,26,light_denim_blue,,,,0.0,0.0,0.0,0.0
+477,875105026,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,26,light_gray,,,,0.0,0.0,0.0,0.0
+478,974597002,men_jeans_slim,slim_tapered_jeans,29.99,2022-04-19 13:17:23,974597,2,denim_blue,,,,0.0,0.0,0.0,0.0
+479,974597002,men_jeans_slim,slim_tapered_jeans,29.99,2022-04-19 13:17:23,974597,2,black,,,,0.0,0.0,0.0,0.0
+480,974597002,men_jeans_slim,slim_tapered_jeans,29.99,2022-04-19 13:17:23,974597,2,light_denim_blue,,,,0.0,0.0,0.0,0.0
+481,974597002,men_jeans_slim,slim_tapered_jeans,29.99,2022-04-19 13:17:23,974597,2,dark_gray,,,,0.0,0.0,0.0,0.0
+482,938875014,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,14,light_denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+483,938875014,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,14,white,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+484,938875014,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,14,dark_gray,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+485,938875014,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,14,black,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+486,938875014,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,14,light_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+487,938875014,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,14,denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+488,938875014,men_jeans_slim,slim_tapered_jeans,39.99,2022-04-19 13:17:23,938875,14,pale_denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+489,751994024,men_jeans_slim,slim_jeans,29.99,2022-04-19 13:17:23,751994,24,light_denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+490,751994024,men_jeans_slim,slim_jeans,29.99,2022-04-19 13:17:23,751994,24,black_washed_out,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+491,751994024,men_jeans_slim,slim_jeans,29.99,2022-04-19 13:17:23,751994,24,dark_blue_denim,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+492,751994024,men_jeans_slim,slim_jeans,29.99,2022-04-19 13:17:23,751994,24,dark_gray,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+493,751994024,men_jeans_slim,slim_jeans,29.99,2022-04-19 13:17:23,751994,24,light_gray,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+494,751994024,men_jeans_slim,slim_jeans,29.99,2022-04-19 13:17:23,751994,24,dark_denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+495,751994024,men_jeans_slim,slim_jeans,29.99,2022-04-19 13:17:23,751994,24,denim_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+496,751994024,men_jeans_slim,slim_jeans,29.99,2022-04-19 13:17:23,751994,24,light_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+497,751994024,men_jeans_slim,slim_jeans,29.99,2022-04-19 13:17:23,751994,24,dark_blue,slim_fit,187.0,size 31/32,0.98,0.02,0.0,0.0
+498,1008110006,men_jeans_slim,freefit®_slim_jeans,49.99,2022-04-19 13:17:23,1008110,6,dark_denim_blue,slim_fit,188.0,size 31/32,0.89,0.02,0.0,0.09
+499,1008110006,men_jeans_slim,freefit®_slim_jeans,49.99,2022-04-19 13:17:23,1008110,6,black_no_fade_black,slim_fit,188.0,size 31/32,0.89,0.02,0.0,0.09
+500,1008110006,men_jeans_slim,freefit®_slim_jeans,49.99,2022-04-19 13:17:23,1008110,6,light_denim_blue,slim_fit,188.0,size 31/32,0.89,0.02,0.0,0.09
+501,1008110006,men_jeans_slim,freefit®_slim_jeans,49.99,2022-04-19 13:17:23,1008110,6,denim_blue,slim_fit,188.0,size 31/32,0.89,0.02,0.0,0.09
+502,1027852007,men_jeans_joggers,relaxed_denim_joggers,29.99,2022-04-19 13:17:23,1027852,7,dark_gray,relaxed_fit,185.0,size M,1.0,0.0,0.0,0.0
+503,1027852007,men_jeans_joggers,relaxed_denim_joggers,29.99,2022-04-19 13:17:23,1027852,7,denim_blue,relaxed_fit,187.0,size L,1.0,0.0,0.0,0.0
+504,1025726002,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,1025726,2,graphite_gray,relaxed_fit,187.0,size 31/32,1.0,0.0,0.0,0.0
+505,1025726002,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,1025726,2,light_denim_blue,relaxed_fit,185.0,size 31/32,1.0,0.0,0.0,0.0
+506,1024711006,men_jeans_slim,slim_jeans,29.99,2022-04-19 13:17:23,1024711,6,dark_denim_blue,slim_fit,189.0,size 31/32,0.99,0.01,0.0,0.0
+507,1024711006,men_jeans_slim,slim_jeans,29.99,2022-04-19 13:17:23,1024711,6,black,slim_fit,189.0,size 31/32,0.98,0.02,0.0,0.0
+508,1024711006,men_jeans_slim,slim_jeans,29.99,2022-04-19 13:17:23,1024711,6,light_denim_blue,slim_fit,189.0,size 31/32,0.98,0.02,0.0,0.0
+509,1018704003,men_jeans_relaxed,relaxed_pull-on_jeans,24.99,2022-04-19 13:17:23,1018704,3,denim_blue,relaxed_fit,187.0,size L,1.0,0.0,0.0,0.0
+510,1018704003,men_jeans_relaxed,relaxed_pull-on_jeans,24.99,2022-04-19 13:17:23,1018704,3,light_denim_blue,,,,0.0,0.0,0.0,0.0
+511,1018704003,men_jeans_relaxed,relaxed_pull-on_jeans,24.99,2022-04-19 13:17:23,1018704,3,black,,,,0.0,0.0,0.0,0.0
+512,993887001,men_jeans_joggers,hybrid_regular_denim_joggers,39.99,2022-04-19 13:17:23,993887,1,denim_blue,regular_fit,188.0,size 31/32,0.77,0.02,0.21,0.0
+513,993887001,men_jeans_joggers,hybrid_regular_denim_joggers,39.99,2022-04-19 13:17:23,993887,1,black,regular_fit,188.0,size 31/32,0.77,0.02,0.21,0.0
+514,1008110005,men_jeans_slim,freefit®_slim_jeans,49.99,2022-04-19 13:17:23,1008110,5,dark_denim_blue,slim_fit,188.0,size 31/32,0.89,0.02,0.0,0.09
+515,1008110005,men_jeans_slim,freefit®_slim_jeans,49.99,2022-04-19 13:17:23,1008110,5,black_no_fade_black,slim_fit,188.0,size 31/32,0.89,0.02,0.0,0.09
+516,1008110005,men_jeans_slim,freefit®_slim_jeans,49.99,2022-04-19 13:17:23,1008110,5,light_denim_blue,slim_fit,188.0,size 31/32,0.89,0.02,0.0,0.09
+517,1008110005,men_jeans_slim,freefit®_slim_jeans,49.99,2022-04-19 13:17:23,1008110,5,denim_blue,slim_fit,188.0,size 31/32,0.89,0.02,0.0,0.09
+518,1013317006,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,6,light_denim_blue,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+519,1013317006,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,6,denim_blue,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+520,1013317006,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,6,dark_gray,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+521,1013317006,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,6,dark_blue,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+522,1013317006,men_jeans_joggers,hybrid_regular_tapered_joggers,39.99,2022-04-19 13:17:23,1013317,6,black,regular_fit,187.0,size L,0.79,0.01,0.2,0.0
+523,1027852002,men_jeans_joggers,relaxed_denim_joggers,29.99,2022-04-19 13:17:23,1027852,2,dark_gray,relaxed_fit,185.0,size M,1.0,0.0,0.0,0.0
+524,1027852002,men_jeans_joggers,relaxed_denim_joggers,29.99,2022-04-19 13:17:23,1027852,2,denim_blue,relaxed_fit,187.0,size L,1.0,0.0,0.0,0.0
+525,985197001,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,1,black,,,,0.0,0.0,0.0,0.0
+526,985197001,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,1,midnight_blue,slim_fit,189.0,size 32/32,0.98,0.02,0.0,0.0
+527,985197001,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,1,denim_blue,slim_fit,189.0,size 32/32,0.98,0.02,0.0,0.0
+528,985197001,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,1,dark_denim_blue,slim_fit,189.0,size 32/32,0.98,0.02,0.0,0.0
+529,985197001,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,1,light_denim_blue,slim_fit,189.0,size 32/32,0.98,0.02,0.0,0.0
+530,985197001,men_jeans_slim,slim_jeans,19.99,2022-04-19 13:17:23,985197,1,dark_gray,slim_fit,189.0,size 32/32,0.98,0.02,0.0,0.0
+531,875105024,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,24,denim_blue,,,,0.0,0.0,0.0,0.0
+532,875105024,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,24,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+533,875105024,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,24,pale_denim_blue,,,,0.0,0.0,0.0,0.0
+534,875105024,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,24,black,,,,0.0,0.0,0.0,0.0
+535,875105024,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,24,light_denim_blue,,,,0.0,0.0,0.0,0.0
+536,875105024,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,24,light_gray,,,,0.0,0.0,0.0,0.0
+537,1008110003,men_jeans_slim,freefit®_slim_jeans,49.99,2022-04-19 13:17:23,1008110,3,dark_denim_blue,slim_fit,188.0,size 31/32,0.89,0.02,0.0,0.09
+538,1008110003,men_jeans_slim,freefit®_slim_jeans,49.99,2022-04-19 13:17:23,1008110,3,black_no_fade_black,slim_fit,188.0,size 31/32,0.89,0.02,0.0,0.09
+539,1008110003,men_jeans_slim,freefit®_slim_jeans,49.99,2022-04-19 13:17:23,1008110,3,light_denim_blue,slim_fit,188.0,size 31/32,0.89,0.02,0.0,0.09
+540,1008110003,men_jeans_slim,freefit®_slim_jeans,49.99,2022-04-19 13:17:23,1008110,3,denim_blue,slim_fit,188.0,size 31/32,0.89,0.02,0.0,0.09
+541,974202002,men_jeans_regular,regular_denim_joggers,29.99,2022-04-19 13:17:23,974202,2,light_denim_blue,,,,0.0,0.0,0.0,0.0
+542,974202002,men_jeans_regular,regular_denim_joggers,29.99,2022-04-19 13:17:23,974202,2,black,,,,0.0,0.0,0.0,0.0
+543,1025726003,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,1025726,3,graphite_gray,relaxed_fit,187.0,size 31/32,1.0,0.0,0.0,0.0
+544,1025726003,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,1025726,3,light_denim_blue,relaxed_fit,185.0,size 31/32,1.0,0.0,0.0,0.0
+545,875105002,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,2,denim_blue,,,,0.0,0.0,0.0,0.0
+546,875105002,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,2,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+547,875105002,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,2,pale_denim_blue,,,,0.0,0.0,0.0,0.0
+548,875105002,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,2,black,,,,0.0,0.0,0.0,0.0
+549,875105002,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,2,light_denim_blue,,,,0.0,0.0,0.0,0.0
+550,875105002,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,2,light_gray,,,,0.0,0.0,0.0,0.0
+551,986779002,men_jeans_relaxed,relaxed_tapered_pull-on_jeans,29.99,2022-04-19 13:17:23,986779,2,black,,,,0.0,0.0,0.0,0.0
+552,986779002,men_jeans_relaxed,relaxed_tapered_pull-on_jeans,29.99,2022-04-19 13:17:23,986779,2,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+553,986779002,men_jeans_relaxed,relaxed_tapered_pull-on_jeans,29.99,2022-04-19 13:17:23,986779,2,denim_blue,,,,0.0,0.0,0.0,0.0
+554,993887002,men_jeans_joggers,hybrid_regular_denim_joggers,39.99,2022-04-19 13:17:23,993887,2,denim_blue,regular_fit,188.0,size 31/32,0.77,0.02,0.21,0.0
+555,993887002,men_jeans_joggers,hybrid_regular_denim_joggers,39.99,2022-04-19 13:17:23,993887,2,black,regular_fit,188.0,size 31/32,0.77,0.02,0.21,0.0
+556,1018704002,men_jeans_relaxed,relaxed_pull-on_jeans,24.99,2022-04-19 13:17:23,1018704,2,denim_blue,relaxed_fit,187.0,size L,1.0,0.0,0.0,0.0
+557,1018704002,men_jeans_relaxed,relaxed_pull-on_jeans,24.99,2022-04-19 13:17:23,1018704,2,light_denim_blue,,,,0.0,0.0,0.0,0.0
+558,1018704002,men_jeans_relaxed,relaxed_pull-on_jeans,24.99,2022-04-19 13:17:23,1018704,2,black,,,,0.0,0.0,0.0,0.0
+559,986779003,men_jeans_relaxed,relaxed_tapered_pull-on_jeans,29.99,2022-04-19 13:17:23,986779,3,black,,,,0.0,0.0,0.0,0.0
+560,986779003,men_jeans_relaxed,relaxed_tapered_pull-on_jeans,29.99,2022-04-19 13:17:23,986779,3,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+561,986779003,men_jeans_relaxed,relaxed_tapered_pull-on_jeans,29.99,2022-04-19 13:17:23,986779,3,denim_blue,,,,0.0,0.0,0.0,0.0
+562,1048642001,men_jeans_regular,regular_bootcut_jeans,39.99,2022-04-19 13:17:23,1048642,1,denim_black,,,,0.0,0.0,0.0,0.0
+563,875105009,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,9,denim_blue,,,,0.0,0.0,0.0,0.0
+564,875105009,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,9,dark_denim_blue,,,,0.0,0.0,0.0,0.0
+565,875105009,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,9,pale_denim_blue,,,,0.0,0.0,0.0,0.0
+566,875105009,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,9,black,,,,0.0,0.0,0.0,0.0
+567,875105009,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,9,light_denim_blue,,,,0.0,0.0,0.0,0.0
+568,875105009,men_jeans_relaxed,relaxed_jeans,39.99,2022-04-19 13:17:23,875105,9,light_gray,,,,0.0,0.0,0.0,0.0
+569,853735002,men_jeans_slim,slim_straight_cropped_jeans,29.99,2022-04-19 13:17:23,853735,2,light_denim_blue_trashed,,,,0.0,0.0,0.0,0.0
